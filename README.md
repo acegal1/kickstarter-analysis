@@ -6,5 +6,5 @@
 ![StatsofUSplaysGoalsandPledge.png](StatsofUSplaysGoalsandPledge.png)
 * You will be happy to know that if you look at the tab Category Statisics,  All plays done in the United States. There were 912 plays and more than half 512 were successful.  Note 26 plays were cancelled and 349 plays failed.
 * As per the Edingurgh Research requested - the five successful plays all exceeded their Goal amounts and average donations were less than hundred dollars.
-#### As per analysis of kickstarter campaings - Theater is stil the number one event most try and succeed to implement. 
+#### As per analysis of kickstarter campaings - Theater is still the number one event most try and succeed to implement. 
 ![Untitled.png](Untitled.png)
