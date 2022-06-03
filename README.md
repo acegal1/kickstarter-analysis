@@ -16,7 +16,7 @@ The data is filtered by Theater (parent category) and Year. The data is also ana
 *Please view excel workbook Kickstarter_Challenge and tab Theater Outcomes by Launch Date.
 
 ### Analysis of Outcomes Based on Goals
-####Again I used the Kickstart data to analysis outcomes of Plays based by Goal amounts. What did the data tells for plays outcomes and goal amounts for each play.
+Again I used the Kickstart data to analysis outcomes of Plays based by Goal amounts. What did the data tells for plays outcomes and goal amounts for each play.
 *Goal amounts were grouped into dollar ranges in order to view the outcomes of plays.
 *The number of successful, failed, canceled campaigns with total number of projects, and calculated the percentage of successful, failed, canceled plays.
 
