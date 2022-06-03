@@ -9,8 +9,8 @@
 ## Analysis and Challenges
 
 ### Analysis of Theater outcomes based on launch date:
-####I used the Kickstart data in order to analyze crowdfunding campaigns and view correlation of outcomes by launch date.
-####The data is filtered by Theater (parent category) and Year. The data is also analyzed to view the theater outcomes by creating pivot table to count different outcomes by categories; sucessful, failed or canceled.
+I used the Kickstart data in order to analyze crowdfunding campaigns and view correlation of outcomes by launch date.
+The data is filtered by Theater (parent category) and Year. The data is also analyzed to view the theater outcomes by creating pivot table to count different outcomes by categories; sucessful, failed or canceled.
 *graph below
 ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
 *Please view excel workbook Kickstarter_Challenge and tab Theater Outcomes by Launch Date.
@@ -21,7 +21,7 @@
 *The number of successful, failed, canceled campaigns with total number of projects, and calculated the percentage of successful, failed, canceled plays.
 
 
-![OutcomesGoals.png](outcomesGoals.png)
+![OutcomesGoals.png](OutcomesGoals.png)
 
 ### Challenges and Difficulties Encountered
 *One of the challenges I found was converting the timestamp to a standard date then to obtain the year. The equation I have never worked with. 
