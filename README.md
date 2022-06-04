@@ -29,16 +29,11 @@ Another difficulty was the Outcomes based on goals using the excel formual Count
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-- Two conclusions can be drawn from the Outcomes based on Launch date, one is that Theater category is the most successful compared to other categories. Second the most successful months for theater campagigns is between May and June. 
+- You can draw two conclusions about the Outcomes based on Launch Date; one is that Theater category is the most successful compared to other categories and the second is the most successful months for theater campagigns is between May and June. 
+
+- You can conclude that for the Outcomes based on Goals analysis that the highest number of  successful and  failed plays were at goal amounts between $1,000 to 4,999.
+
+- What are some limitations of this dataset? The data was limited from 2010 to 2017 - why wasn't 2018, 2019 and 2020 included. Dataset did not include expenses for campaigns. 
 
 
-- What can you conclude about the Outcomes based on Goals?
-- That the highest number of 1. successful and 2. failed plays were at goal amounts between $1,000 to 4,999.
-
-- What are some limitations of this dataset? 
-- The data was limited from 2010 to 2017 - why wasn't 2018, 2019 and 2020 included. Dataset did not include expenses for campaigns. 
-
-
-- What are some other possible tables and/or graphs that we could create?  
-- A  table of number of backers and success, failure and cancelled parent categories. 
+- What are some other possible tables and/or graphs that we could create?  A  table of number of backers and success, failure and cancelled parent categories. 
