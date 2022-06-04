@@ -11,7 +11,7 @@
 ### Analysis of Theater outcomes based on launch date:
 I used the Kickstart data in order to analyze crowdfunding campaigns and view correlation of outcomes by launch date.
 The data is filtered by Theater (parent category) and Year. The data is also analyzed to view the theater outcomes by creating pivot table to count different outcomes by categories; sucessful, failed or canceled.
-*graph below
+- graph below
 ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
 - Please view excel workbook Kickstarter_Challenge and tab Theater Outcomes by Launch Date.
 
