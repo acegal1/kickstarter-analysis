@@ -13,7 +13,7 @@ I used the Kickstart data in order to analyze crowdfunding campaigns and view co
 The data is filtered by Theater (parent category) and Year. The data is also analyzed to view the theater outcomes by creating pivot table to count different outcomes by categories; sucessful, failed or canceled.
 *graph below
 ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
-*Please view excel workbook Kickstarter_Challenge and tab Theater Outcomes by Launch Date.
+- Please view excel workbook Kickstarter_Challenge and tab Theater Outcomes by Launch Date.
 
 ### Analysis of Outcomes Based on Goals
 Again I used the Kickstart data to analysis outcomes of Plays based by Goal amounts. What did the data tells for plays outcomes and goal amounts for each play.
@@ -21,7 +21,7 @@ Again I used the Kickstart data to analysis outcomes of Plays based by Goal amou
 *The number of successful, failed, canceled campaigns with total number of projects, and calculated the percentage of successful, failed, canceled plays.
 
 ![OutcomesGoals.png](OutcomesGoals.png)
-*Please view excel workbook Kickstarter_Challenge and tab Outcomes Based on Goal.
+- Please view excel workbook Kickstarter_Challenge and tab Outcomes Based on Goal.
 
 ### Challenges and Difficulties Encountered
 One of the challenges I found was converting the timestamp to a standard date then to obtain the year. The equation I have never worked with. 
